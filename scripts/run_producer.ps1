@@ -1,0 +1,1 @@
+..\src\Producer\bin\Debug\netcoreapp3.1\Producer.exe
